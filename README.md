@@ -10,11 +10,10 @@ This project looks at how cycling infrastructure and real health data can be stu
 
 ## Folder Structure
 - `notebooks/health_on_wheels.ipynb` — main notebook with code and results  
-- `data/health_data.csv` — cleaned health dataset  
-- `data/cycling_routes.geojson` — cycling network from OSMnx  
-- `outputs/maps/` — saved map images  
-- `outputs/charts/` — saved charts  
-- `src/utils_processing.py` — helper functions (optional)  
+- `health_data.csv` — cleaned health dataset  
+- `cycling_routes.geojson` — cycling network from OSMnx  
+- `maps/` — saved map images  
+- `charts/` — saved charts  
 - `documentation.pdf` — list of files with one-sentence descriptions  
 - `README.md` — how to run and understand this project  
 
